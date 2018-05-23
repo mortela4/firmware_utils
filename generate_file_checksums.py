@@ -1,4 +1,9 @@
-""" @file generate_file_checksums.py """
+""" 
+@file generate_file_checksums.py 
+================================
+@brief Generate MD5-cheksum on file.
+Both with a GUI and as a CLI utility.
+"""
 
 import sys
 import hashlib
